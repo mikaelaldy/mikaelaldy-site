@@ -41,7 +41,7 @@ export default function Component() {
         <section id="about" className="max-w-2xl mx-auto space-y-4">
           <h2 className="text-2xl font-semibold">About Me</h2>
           <p className="text-muted-foreground">
-            I'm a passionate Machine Learning Engineer with a keen interest in developing intelligent systems and solving complex problems. With a strong foundation in Python and deep learning frameworks, I specialize in creating innovative ML solutions.
+            I&apos;m a passionate Machine Learning Engineer with a keen interest in developing intelligent systems and solving complex problems. With a strong foundation in Python and deep learning frameworks, I specialize in creating innovative ML solutions.
           </p>
         </section>
 
@@ -101,7 +101,7 @@ export default function Component() {
         <section id="contact" className="max-w-md mx-auto space-y-4 text-center">
           <h2 className="text-2xl font-semibold">Get in Touch</h2>
           <p className="text-muted-foreground">
-            I'm always open to new opportunities and collaborations. Feel free to reach out!
+            I&apos;m always open to new opportunities and collaborations. Feel free to reach out!
           </p>
           <div className="flex justify-center space-x-4">
             <a href="#" className="p-2 border rounded">
